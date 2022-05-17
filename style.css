@@ -93,4 +93,7 @@ label span {
   .container {
     padding: 3rem;
   }
+  .btn{
+    padding:12px;
+  }
 }
